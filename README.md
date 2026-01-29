@@ -7,9 +7,8 @@ This reposity shows multiple version of the AutoTyper, changed the classic theme
 
 > Automate your typing with realistic human behavior. Typos, hesitation, and fatigue included.
 
-**AutoTyper_v2** is a sophisticated automation tool written in Python that goes beyond standard text injection. It simulates the nuances of human typing, including variable WPM, fatigue, backspacing, and "thinking" pauses. Perfect for UI testing, generating realistic user data, or pranking your friends.
+> **AutoTyper_v2** is a sophisticated automation tool written in Python that goes beyond standard text injection. It simulates the nuances of human typing, including variable WPM, fatigue, backspacing, and "thinking" pauses. Perfect for UI testing, generating realistic user data, or pranking your friends.
 
----
 
 ## ✨ Features
 
